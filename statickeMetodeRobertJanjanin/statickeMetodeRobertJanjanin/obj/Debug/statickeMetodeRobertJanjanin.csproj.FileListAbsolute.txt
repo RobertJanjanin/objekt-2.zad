@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\bin\Debug\statickeMetodeRobertJanjanin.exe.config
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\bin\Debug\statickeMetodeRobertJanjanin.exe
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\bin\Debug\statickeMetodeRobertJanjanin.pdb
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\obj\Debug\statickeMetodeRobertJanjanin.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\obj\Debug\statickeMetodeRobertJanjanin.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\obj\Debug\statickeMetodeRobertJanjanin.exe
+C:\Users\3.D\source\repos\statickeMetodeRobertJanjanin\statickeMetodeRobertJanjanin\obj\Debug\statickeMetodeRobertJanjanin.pdb
